@@ -1,0 +1,41 @@
+# Node / npm stuff (for npm-groovy-lint or future Node tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS / editor / IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# Minikube / local Kubernetes clusters
+.minikube/
+.kube/cache/
+.kube/config
+.kube/http-cache/
+
+# Helm local charts / temp files
+**/charts/**/charts.lock
+**/charts/**/tmp/
+**/charts/**/helmfile.lock
+
+# Helm package artifacts
+*.tgz
+
+# Logs
+*.log
+
+# Python cache if any scripts used
+__pycache__/
+*.py[cod]
+
+# Secrets (never commit real secrets)
+*.key
+*.pem
+*.crt
+secrets.yaml
+.env
