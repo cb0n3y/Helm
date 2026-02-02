@@ -4,6 +4,7 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/cb0n3y/helm)
 ![Last Commit](https://img.shields.io/github/last-commit/cb0n3y/helm)
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/cb0n3y/helm/ci.yml?label=CI%2FCD)
+![Languages Count](https://img.shields.io/github/languages/count/cb0n3y/helm)
 
 Welcome to **Helm – Kubernetes Packaging Manager for Developers and DevOps** 🚀
 This repository is a **hands-on course and reference** for learning how to package, deploy, and manage Kubernetes applications using **Helm**.
